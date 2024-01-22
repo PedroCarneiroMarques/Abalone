@@ -1,6 +1,7 @@
 # Abalone
 
 Project Overview/Summary
+
 Dataset:
 The dataset used for analysis contains information about abalones, a type of marine mollusk. The dataset includes various physical attributes such as length, diameter, height, and weights of different parts, along with the number of rings, which can be used to estimate the age of the abalones. Additionally, a 'Sex' column was present, which was one-hot encoded to 'Sex_I' and 'Sex_M' during the analysis.
 
